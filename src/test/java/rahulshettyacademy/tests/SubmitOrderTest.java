@@ -34,7 +34,7 @@ import rahulshettyacademy.pageobjects.ProductCatalogue;
 
 public class SubmitOrderTest extends BaseTest{
 	
-//changes to see CI/CD
+//changes to see CI/CD work
 	String productName = "ZARA COAT 3";
 
 	@Test(dataProvider="getData",groups= {"Purchase"})
